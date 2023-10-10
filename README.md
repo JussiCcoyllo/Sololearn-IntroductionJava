@@ -1,4 +1,5 @@
 # Sololearn-IntroductionJava
 ## Assignement Switchfully
 
-[IntroductionJavaCertificate.pdf](https://github.com/JussiCcoyllo/Sololearn-IntroductionJava/files/12861068/IntroductionJavaCertificate.pdf)
+![image](https://github.com/JussiCcoyllo/Sololearn-IntroductionJava/assets/46483286/601053a3-765e-445b-b8c6-433082a41ead)
+
